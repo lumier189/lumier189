@@ -1,14 +1,21 @@
 ### Olá, seja bem vindo ao meu GitHub!
 
-Prazer, me chamo Luis Eduardo, admirador da tecnologia desde pequeno. Atualmente busco uma transição de carreira e pulei com tudo no foco de me tornor um desenvolvedor full-stack. No momento estou cursando analise e desenvolvimento de sistemas pela Universidade POSITIVO em Curitiba/PR, e junto com isso estou fazendo o curso intensivo FULL-STACK na DIGITAL HOUSE, buscando assim uma formação mais pratica e focada.  
+Prazer, me chamo Luis Eduardo, admirador da tecnologia desde pequeno. Atualmente busco uma transição de carreira e pulei com tudo no foco de me tornar um desenvolvedor full-stack. No momento estou cursando analise e desenvolvimento de sistemas pela Universidade POSITIVO em Curitiba/PR, e junto com isso estou fazendo o curso intensivo FULL-STACK na DIGITAL HOUSE, buscando assim uma formação mais pratica e focada.
 
-Os repositórios que verá aqui aqui são exercicios praticos de projetos de estudo e pessoais, sinta-se avontade!😃
+Os repositórios que verá aqui aqui são exercícios práticos de projetos de estudo e pessoais, sinta-se à vontade!😃
 
 Para contatos:
+<div>
+   <a href="">
+       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
+    </a> 
+    <a href="">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
+    </a>
+</div>
 
 
-tecnoligias que trabalho e pratico atualmente:
-
+tecnologias que trabalho e pratico atualmente:
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascrip">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
