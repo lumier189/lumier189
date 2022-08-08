@@ -4,7 +4,7 @@ Prazer, me chamo Luis Eduardo, admirador da tecnologia desde pequeno. Atualmente
 
 Os repositórios que verá aqui aqui são exercícios práticos de projetos de estudo e pessoais, sinta-se à vontade!😃
 
-Para contatos:
+<!-- Para contatos:
 <div>
    <a href="">
        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
@@ -12,10 +12,10 @@ Para contatos:
     <a href="">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
     </a>
-</div>
+</div> -->
 
 
-tecnologias que trabalho e pratico atualmente:
+tecnologias que estudo e pratico atualmente:
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascrip">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
