@@ -25,7 +25,14 @@ tecnologias que estudo e pratico atualmente:
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express">
     <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="sequelize">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="sequelize">
-    
-
-
 </div>
+
+
+
+<br> 
+contato: <br> 
+<a href="https://www.linkedin.com/in/luis-eduardo-silva-8583a1247/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sequelize">
+</a>
+
+
