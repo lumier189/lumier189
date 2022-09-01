@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu GitHub!
 
-Prazer, me chamo Luis Eduardo, admirador da tecnologia desde pequeno. Atualmente busco uma transição de carreira e pulei com tudo no foco de me tornar um desenvolvedor full-stack. No momento estou cursando analise e desenvolvimento de sistemas pela universidade positivo em Curitiba/PR, e junto com isso estou fazendo o curso intensivo FULL-STACK na digital house, buscando assim uma formação mais pratica e focada.
+Prazer, me chamo Luis Eduardo, admirador da tecnologia desde pequeno. No momento estou cursando analise e desenvolvimento de sistemas pela universidade positivo em Curitiba/PR, e junto com isso estou fazendo o curso intensivo FULL-STACK na digital house, buscando assim uma formação mais pratica e focada.
 
 Os repositórios que verá aqui aqui são exercícios práticos de projetos de estudo e pessoais, sinta-se à vontade!😃
 
