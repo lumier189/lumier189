@@ -18,7 +18,6 @@ Se tiver alguma pergunta dicas ou precisar de mais informações, é só falar! 
 </div> -->
 
 
-tecnologias que estudo e pratico atualmente:
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascrip">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
