@@ -2,10 +2,10 @@
 
 E aí! Beleza? Me chamo Luis Eduardo, e sou um desenvolvedor full-stack com foco no back end. Estou aqui no meu GitHub compartilhando alguns dos meus projetos e exercícios práticos.
 
-Trabalho com tecnologias como AWS, NestJS e TypeScript, e estou buscando aprimorar minhas habilidades na parte de patterns e arquitetura.
+Trabalho com tecnologias como AWS, NestJS e TypeScript, e atualmente meus estudos pessoais estão voltados a padrões e tipos de arquitetura.
 Fique à vontade para explorar os repositórios disponíveis e dar uma olhada no que tenho feito.
 
-Se tiver alguma pergunta dicas ou precisar de mais informações, é só falar! Valeu pela visita ao meu perfil do GitHub!
+Se tiver alguma pergunta dica ou precisar de mais informações, é só chamar! Valeu pela visita ao meu perfil do GitHub!
 
 <!-- Para contatos:
 <div>
