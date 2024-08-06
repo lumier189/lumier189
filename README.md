@@ -1,11 +1,6 @@
 ### Olá, seja bem vindo ao meu GitHub!
 
-E aí! Beleza? Me chamo Luis Eduardo, e sou um desenvolvedor full-stack com foco no back end. Estou aqui no meu GitHub compartilhando alguns dos meus projetos e exercícios práticos.
-
-Trabalho com tecnologias como AWS, NestJS e TypeScript, e atualmente meus estudos pessoais estão voltados a padrões e tipos de arquitetura.
-Fique à vontade para explorar os repositórios disponíveis e dar uma olhada no que tenho feito.
-
-Se tiver alguma pergunta dica ou precisar de mais informações, é só chamar! Valeu pela visita!
+E aí! Beleza? Me chamo Luis Eduardo, e sou um desenvolvedor full-stack com foco no back end e arquitetura. Seja bem vindo e sinta-se a vontade para me chamar e conversar comigo.
 
 <!-- Para contatos:
 <div>
